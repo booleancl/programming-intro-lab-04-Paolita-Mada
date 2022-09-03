@@ -4,8 +4,9 @@ word_one = "Hello"
 
 space = " "
 
-word two = "World"
+word_two = "Word"
 
 sentence = word one + space + word two
 
 print(sentence)
+
