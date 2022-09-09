@@ -27,5 +27,9 @@ def super_sum(number):
 print(super_sum(3))
 
 
+# Recursion infinita, sin condicion de salida para nada util, pero entretenida
+
+def infinite():
+    infinite()
 
 
