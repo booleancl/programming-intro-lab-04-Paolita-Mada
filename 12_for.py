@@ -9,6 +9,4 @@ fruits = ['Apple','Strawberry','Banana','Orange']
 
 for fruit in fruits:
     print('I love to eat', fruit)
-    
-
-
+  

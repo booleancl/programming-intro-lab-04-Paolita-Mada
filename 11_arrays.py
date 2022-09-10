@@ -25,4 +25,3 @@ first_array.insert(0,'Levantarse')
 
 # Podemos imprimir la lista completa
 print(first_array)
-

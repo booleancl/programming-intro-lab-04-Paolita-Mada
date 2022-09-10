@@ -31,5 +31,3 @@ print(super_sum(3))
 
 def infinite():
     infinite()
-
-

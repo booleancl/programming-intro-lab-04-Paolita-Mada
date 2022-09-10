@@ -4,8 +4,3 @@
 name = input("Hola, como te llamas\n")
 
 print("Hola",name,"gusto en conocerte")
-
-
-
-
-

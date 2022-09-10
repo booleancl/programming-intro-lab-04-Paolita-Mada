@@ -33,6 +33,3 @@ elif paola_age < gaby_age:
     print("Paola es menor que Gaby")    
 else:
     print("Tienen la misma edad Gaby y Paola")    
-
-
-

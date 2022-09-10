@@ -21,4 +21,3 @@ chuchuwa("lengua afuera")
 # Si la funcion no tiene un valor de retorno, nos entrega"none", que es para representar: "Nada"
 print(result)
 
-
